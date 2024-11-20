@@ -1,0 +1,3 @@
+/home/pc-integracion/eclipse-workspace/hello_consumer/build/CMakeFiles/hello_consumer.dir
+/home/pc-integracion/eclipse-workspace/hello_consumer/build/CMakeFiles/edit_cache.dir
+/home/pc-integracion/eclipse-workspace/hello_consumer/build/CMakeFiles/rebuild_cache.dir

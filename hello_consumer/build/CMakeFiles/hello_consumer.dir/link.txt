@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/hello_consumer.dir/src/main.cpp.o CMakeFiles/hello_consumer.dir/src/program_simulator.cpp.o -o hello_consumer   -L/home/pc-integracion/.conan2/p/hellod866cc1748696/p/lib  -Wl,-rpath,/home/pc-integracion/.conan2/p/hellod866cc1748696/p/lib /home/pc-integracion/.conan2/p/hellod866cc1748696/p/lib/libhello.a
