@@ -1,0 +1,1 @@
+. "/home/pc-integracion/eclipse-workspace/hello_library/build/conanbuildenv-release-x86_64.sh"
